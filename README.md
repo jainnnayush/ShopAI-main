@@ -12,14 +12,7 @@ Onboarding                     |  Search Page                |  Chat Page       
 :-----------------------------:|:---------------------------:|:-------------------------:|
 ![](./ScreenshotOnboarding.png)|  ![](./ScreenshotSearch.png)|  ![](./ScreenshotChat.png)|
 
-## Team Members
-
-- [Amresh Prasad Sinha](https://github.com/AmreshSinha)
-- [Vighnesh Deshpande](https://github.com/Kunalpal216)
-- [Kunal Pal](https://github.com/DeltaProxima)
-
 ## How it works
-
 ![Architecture](./Architecture.png)
 ## Dev
 
